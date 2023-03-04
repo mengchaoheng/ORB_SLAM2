@@ -29,6 +29,8 @@
 #include "ORBmatcher.h"
 
 #include "Thirdparty/DBoW2/DUtils/Random.h"
+#include <opencv2/imgproc/types_c.h>
+
 
 namespace ORB_SLAM2
 {
